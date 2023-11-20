@@ -1,2 +1,2 @@
 # EPuckController
-Controlador de robô "E-Puck" desenvolvido para aulda de Inteligência Artificial
+Controlador de robô "E-Puck" desenvolvido para aula de Inteligência Artificial
